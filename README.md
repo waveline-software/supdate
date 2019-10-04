@@ -7,20 +7,9 @@
 ```none
 .
 ├── list.json
-├── product1
-│   ├── updates.json
-│   ├── 1.0.5
-│   │   ├── meta.json
-│   │   └── package.7z
-│   └── 1.1.0
-│       ├── meta.json
-│       └── package.7z
-└── product2
+└── product
     ├── updates.json
-    ├── 1.0.2
-    │   ├── meta.json
-    │   └── package.7z
-    └── 1.2.6
+    ├── x.x.x
         ├── meta.json
         └── package.7z
 ```
