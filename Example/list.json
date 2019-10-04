@@ -1,0 +1,9 @@
+{
+    "stdver": [ 1, 0, 0 ],
+    
+    "products": [
+        { "name": "Notepad++", "dir": "npp", "id": "33b151a828869c9640ad2ef126c70fe8" },
+        { "name": "Speedcrunch", "dir": "speedcrunch", "id": "62931d88a234631743860280e2448164" },
+        { "name": "LMMS", "dir": "lmms", "id": "dd88379f4c437584b375818033c6afdd" }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "stdver": [ 1, 0, 0 ],
+    
+    "installer": "main.exe",
+    "sha256": "B297E9937653C162552A6295B05EB2F1AABC9B7B070735BD1EA35233BCE49B79"
+}
