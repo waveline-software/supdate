@@ -13,7 +13,7 @@
         ├── meta.json
         └── package.7z
 ```
-A better example can be can be found in the "[Example](Example)" folder.
+A better example can be can be found in the "[Example Layout](Example Layout)" folder.
 
 ---
 
