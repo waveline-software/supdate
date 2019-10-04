@@ -9,7 +9,7 @@
 ├── list.json
 └── product
     ├── updates.json
-    ├── x.x.x
+    └── x.x.x
         ├── meta.json
         └── package.7z
 ```
