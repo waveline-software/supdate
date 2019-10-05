@@ -3,6 +3,12 @@
 
 ---
 
+### Table of Contents
+**Server-Side** : [Directory](#directory-layout) : [Product List](#product-list-format) : [Update List](#update-list-format) : [Metadata](#metadata-format) : [Package](#package-layout) <br>
+**Client-Side** : [Library](#client-library)
+
+---
+
 ### Directory Layout
 A list (`list.json`) and all product directories are placed in the root directory. Each product directory contains an update list (`updates.json`) and all version directories. Each version directory contains a metadata file (`meta.json`) and an update package (`package.7z`).
 ```none
