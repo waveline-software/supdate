@@ -20,7 +20,7 @@ A list (`list.json`) and all product directories are placed in the root director
         ├── meta.json
         └── package.7z
 ```
-An full example can be found [here](Example%20Layout).
+An full example can be found [here](example).
 
 ---
 
@@ -35,7 +35,7 @@ The product list (`list.json`) placed in the root directory contains information
     ]
 }
 ```
-An example can be found [here](Example%20Layout/list.json).
+An example can be found [here](example/list.json).
 
 ---
 
@@ -50,7 +50,7 @@ An update list (`updates.json`) is placed in the root of each product directory 
     ]
 }
 ```
-An example can be found [here](Example%20Layout/speedcrunch/updates.json).
+An example can be found [here](example/speedcrunch/updates.json).
 
 ---
 
@@ -64,7 +64,7 @@ Each update directory contains metadata (`meta.json`). This file contains the ve
     "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
 }
 ```
-An example can be found [here](Example%20Layout/npp/7.7.1/meta.json).
+An example can be found [here](example/npp/7.7.1/meta.json).
 
 ---
 
@@ -75,7 +75,7 @@ package.7z
 ├── install.exe
 └── readme.txt
 ```
-An example can be found [here](Example%20Layout/lmms/1.2.0/package.7z).
+An example can be found [here](example/lmms/1.2.0/package.7z).
 
 ---
 
