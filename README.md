@@ -4,7 +4,7 @@
 ---
 
 ### Table of Contents
-**Server-Side** : [Directory](#directory-layout) : [Product List](#product-list-format) : [Update List](#update-list-format) : [Metadata](#metadata-format) : [Package](#package-layout) <br>
+**Server-Side** : [Directory](#directory-layout) : [Product List](#product-list-format) : [Update List](#update-list-format) : [Metadata](#metadata-format) : [Package](#package-layout) : [NodeJS Server](#nodejs-based-server) <br>
 **Client-Side** : [Library](#client-library)
 
 ---
@@ -76,6 +76,11 @@ package.7z
 └── readme.txt
 ```
 An example can be found [here](example/lmms/1.2.0/package.7z).
+
+---
+
+### NodeJS-Based Server
+Software for the server can be found [here](node-server). *More documentation is coming soon...*
 
 ---
 

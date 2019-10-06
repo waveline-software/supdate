@@ -1,0 +1,16 @@
+{
+  "name": "supdate-server",
+  "version": "1.0.0",
+  "description": "Server for hosting content following the sUpdate standard.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sykeben",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.17.1"
+  }
+}
