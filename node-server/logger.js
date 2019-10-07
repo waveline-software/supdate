@@ -1,5 +1,6 @@
 /*
- *  sUpdate NodeJS-Based Server: Logger Module v1.0.0
+ *  WaveLine Codebase: Logger Module v1.0.0
+ *  https://github.com/waveline-software/codebase/Logger
  *  Copyright 2019, WaveLine Software, All Rights Reserved.
  */
 
