@@ -80,7 +80,7 @@ An example can be found [here](example/lmms/1.2.0/package.7z).
 ---
 
 ### NodeJS-Based Server
-Software for the server can be found [here](node-server). All documentation related to this server is in it's own [readme](node-server/README.md).
+Software for the server can be found [here](node-server). The server simply statically hosts the root directory specified in it's config file.
 
 ---
 
